@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:food/core/data/repositories/shared_preferences_repositories.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
 import 'app/my_app.dart';
 import 'app/myapp_controller.dart';
 import 'core/services/cart_services.dart';
